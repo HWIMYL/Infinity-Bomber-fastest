@@ -1,0 +1,66 @@
+# Tor state file last generated on 2020-02-09 14:58:07 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+Guard in=default rsa_id=D58DA32A978FEADC1261B5A8763126F3E92B0849 nickname=bauruine31 sampled_on=2020-01-28T15:17:29 sampled_by=0.4.1.5 listed=1
+Guard in=default rsa_id=ACF165754601059ED2E472F893AD0FA4CAF1142D nickname=SwedishNSA sampled_on=2020-01-28T19:34:15 sampled_by=0.4.1.5 listed=1
+Guard in=default rsa_id=81A0F6F4AC31AC82ADABB4677A679C3ACE670E91 nickname=AnteGamissu sampled_on=2020-01-28T13:37:51 sampled_by=0.4.1.5 listed=1
+Guard in=default rsa_id=5D995EC983ED3DF9DAABD32B9BF1540AFF42A457 nickname=bbkamy sampled_on=2020-01-31T15:33:15 sampled_by=0.4.1.5 listed=1 confirmed_on=2020-02-03T17:43:07 confirmed_idx=2
+Guard in=default rsa_id=395D293263E9DEEC1874503D45B8543DABACC694 nickname=snukafly sampled_on=2020-01-28T19:44:35 sampled_by=0.4.1.5 listed=1
+Guard in=default rsa_id=05511D7353855494357DB1857F07BA3678EF90E3 nickname=Unnamed sampled_on=2020-01-27T17:11:55 sampled_by=0.4.1.5 listed=1
+Guard in=default rsa_id=823701D5C4C5D72C3FF533113F25A1922DED6303 nickname=DefiantDaveRelay01 sampled_on=2020-02-04T05:21:23 sampled_by=0.4.1.5 listed=1
+Guard in=default rsa_id=DF5AAF1D355411F2BB9E8304BDBD810071333F1D nickname=Freedom sampled_on=2020-02-03T20:28:04 sampled_by=0.4.1.5 listed=1
+Guard in=default rsa_id=52D5FB2004C67127C73B71478238FA66122BD443 nickname=hellebuz sampled_on=2020-01-30T17:49:47 sampled_by=0.4.1.5 listed=1
+Guard in=default rsa_id=D568EAA2A7017AFCD3FBAD64111C92CB8FD3A418 nickname=nicotrack sampled_on=2020-01-26T13:04:30 sampled_by=0.4.1.5 listed=1
+Guard in=default rsa_id=EF90BCF207BD7706FC34B029DE604B92C7F90520 nickname=regressverbotv2 sampled_on=2020-02-05T19:01:17 sampled_by=0.4.1.5 listed=1 confirmed_on=2020-02-05T10:45:10 confirmed_idx=1 pb_circ_attempts=2.000000 pb_circ_successes=1.000000 pb_successful_circuits_closed=1.000000
+Guard in=default rsa_id=885CFB6921E6E7716BB64783348DDB06E17E5B5A nickname=42e7b73f33ff22cfc9c sampled_on=2020-02-05T11:02:40 sampled_by=0.4.1.5 listed=1 confirmed_on=2020-01-28T04:09:56 confirmed_idx=0 pb_use_attempts=65.000000 pb_use_successes=64.000000 pb_circ_attempts=265.000000 pb_circ_successes=257.000000 pb_successful_circuits_closed=253.000000 pb_collapsed_circuits=3.000000 pb_unusable_circuits=1.000000 pb_timeouts=6.000000
+Guard in=default rsa_id=18671DE5092C67883BFB2450C3267B92618BEC66 nickname=TorOrDie4privacyNET sampled_on=2020-02-03T14:30:59 sampled_by=0.4.1.5 listed=1
+Guard in=default rsa_id=FA017266AD102BFF9024DC2909E2F0BB6FCCB3FF nickname=2fast4you2 sampled_on=2020-01-29T12:30:07 sampled_by=0.4.1.5 listed=1
+Guard in=default rsa_id=3CEA56B817455E13C4B063E7D3E7726C286F7C9B nickname=OnionRaspberrySoup sampled_on=2020-02-01T15:57:39 sampled_by=0.4.1.5 listed=1
+Guard in=default rsa_id=A6956B29C5B999707F0AF006732F2FA7B3D56A5A nickname=FrankWoiTor sampled_on=2020-02-06T03:46:40 sampled_by=0.4.1.5 listed=1
+Guard in=default rsa_id=B27115A20B05D40730A4020145EFA63381D9D51B nickname=TheBaconaTOR sampled_on=2020-01-27T20:15:09 sampled_by=0.4.1.5 listed=1
+Guard in=default rsa_id=7DA31D79E52D12685BBE8544E3C557F176B0FC84 nickname=FritzWilhelm007 sampled_on=2020-02-03T19:30:16 sampled_by=0.4.1.5 listed=1
+Guard in=default rsa_id=58A9921DD0A1389356634625C5B14ACC1194A95C nickname=iblech sampled_on=2020-01-30T14:50:18 sampled_by=0.4.1.5 listed=1
+Guard in=default rsa_id=E13F7EE1535ED8AEAB92A5EEAEE9A0C782ED33E2 nickname=ipheiboqu8oorai8Ais sampled_on=2020-01-30T18:12:58 sampled_by=0.4.1.5 listed=1
+TorVersion Tor 0.4.1.5 (git-439ca48989ece545)
+LastWritten 2020-02-09 10:58:07
+TotalBuildTimes 261
+CircuitBuildAbandonedCount 3
+CircuitBuildTimeBin 275 5
+CircuitBuildTimeBin 325 22
+CircuitBuildTimeBin 375 24
+CircuitBuildTimeBin 425 27
+CircuitBuildTimeBin 475 25
+CircuitBuildTimeBin 525 25
+CircuitBuildTimeBin 575 19
+CircuitBuildTimeBin 625 21
+CircuitBuildTimeBin 675 14
+CircuitBuildTimeBin 725 10
+CircuitBuildTimeBin 775 13
+CircuitBuildTimeBin 825 8
+CircuitBuildTimeBin 875 3
+CircuitBuildTimeBin 925 5
+CircuitBuildTimeBin 975 6
+CircuitBuildTimeBin 1025 3
+CircuitBuildTimeBin 1075 2
+CircuitBuildTimeBin 1125 1
+CircuitBuildTimeBin 1175 1
+CircuitBuildTimeBin 1225 4
+CircuitBuildTimeBin 1325 1
+CircuitBuildTimeBin 1525 1
+CircuitBuildTimeBin 1575 1
+CircuitBuildTimeBin 1725 1
+CircuitBuildTimeBin 1825 3
+CircuitBuildTimeBin 1925 1
+CircuitBuildTimeBin 1975 1
+CircuitBuildTimeBin 2675 1
+CircuitBuildTimeBin 3225 1
+CircuitBuildTimeBin 3475 1
+CircuitBuildTimeBin 3525 1
+CircuitBuildTimeBin 3575 1
+CircuitBuildTimeBin 4025 1
+CircuitBuildTimeBin 4225 1
+CircuitBuildTimeBin 4275 1
+CircuitBuildTimeBin 4325 2
+CircuitBuildTimeBin 4425 1
+Dormant 0
